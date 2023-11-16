@@ -18,4 +18,4 @@
 ### My Projects
 - Pomodoro Timer (Angular) - [GitHub](https://github.com/kkolcz/angular-pomodoro-timer)
 - MyQuiz (Angular, Firebase) - [GitHub](https://github.com/kkolcz/angular-quiz-app)
-- AliMon (React, Firebase) - [GitHub](https://github.com/kkolcz/ReactJS_Projects-01-AliMon_v2) 
+- AliMon (React, Redux, Firebase) - [GitHub](https://github.com/kkolcz/ReactJS_Projects-01-AliMon_v2) 
